@@ -54,12 +54,6 @@ const Footer = ({setComp}) => {
           dropdownI
           />
       </div>
-      
-      <div className = "patreon">
-        <IconContext.Provider value = {{size: "1.75em", color: "#E85B46"}}>
-          <a href = "https://www.patreon.com/upsolve" title = "Your support matters a lot!" target = "_blank" rel="noopener noreferrer" ><RiPatreonLine /></a>
-        </IconContext.Provider>
-      </div>
     </div>
   )
 }
