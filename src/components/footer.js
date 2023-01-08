@@ -1,6 +1,4 @@
 import React from 'react'
-import { IconContext } from 'react-icons'
-import { RiPatreonLine } from 'react-icons/ri'
 import Select from 'react-select'
 import '../css/bars.css'
 import Home from './home.js'
